@@ -10,6 +10,8 @@ public class Pruebagit8 {
         System.out.println("Prueba 8, cambio para el segundo commit");
         
         System.out.println("Juan Zuñiga");
+        
+        System.out.println("Jojan Pinilla");
     }
     
 }
